@@ -1,0 +1,19 @@
+@import url("//fonts.googleapis.com/css?family=Dancing%20Script");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+  background-color: rgb(166, 219, 59);
+}
+h1 {
+  font-family: "Dancing Script";
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #efefef;
+}
+
+body {
+  background: "/beer.jpg";
+}
